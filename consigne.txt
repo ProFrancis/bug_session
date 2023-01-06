@@ -1,0 +1,5 @@
+Générer une SESSION avec un pseudo qui provient d'un formulaire.
+
+Et afficher le message "Bonjour votre_pseudo" sur l'accueil de votre site.
+
+Ajouter ensuite un button pour déconnecter la personne connectée
